@@ -186,7 +186,7 @@ section .title::after {
 /* home section styling THIS IS NOT WORKING FOR SOME REASON*/
 .home {
   display: flex;
-  background: url("images/springwater.JPG") no-repeat center;
+  background: url("images/springwater.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
