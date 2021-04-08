@@ -29,7 +29,7 @@ html {
   background: #555;
 }
 
-/* all similar content styling codes */
+/* general code */
 section {
   padding: 100px 0;
 }
@@ -87,7 +87,7 @@ section .title::after {
   transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* navbar */
 .navbar {
   position: fixed;
   width: 100%;
