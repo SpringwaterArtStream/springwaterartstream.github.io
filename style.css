@@ -12,6 +12,10 @@ html {
   scroll-behavior: smooth;
 }
 
+a:link {
+  color: white;
+}
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
   width: 10px;
