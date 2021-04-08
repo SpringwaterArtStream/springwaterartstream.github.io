@@ -595,12 +595,12 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.owl-dot.active {
+.owl-dot .active {
   width: 35px;
   border-radius: 14px;
 }
 
-.owl-dot.active,
+.owl-dot .active,
 .owl-dot:hover {
   background: white !important;
 }
@@ -796,7 +796,7 @@ footer span a:hover {
     transition: all 0.3s ease;
   }
 
-  .navbar .menu.active {
+  .navbar .menu .active {
     left: 0;
   }
 
@@ -845,13 +845,13 @@ footer span a:hover {
     width: 100%;
   }
 
-  .awards .awards-content .right {
+  .awards .awards-content .left {
     display: flex;
     justify-content: center;
     margin: 0 auto 60px;
   }
 
-  .awards .awards-content .left {
+  .awards .awards-content .right {
     flex: 100%;
   }
 
