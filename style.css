@@ -626,13 +626,17 @@ section .title::after {
 /* styling for the artticles that are embebbed on the website */
 
 .article1 {
-  font-family: sans-serif;
-  padding: 100px
+  background: rgb(241, 239, 231);
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 450px;
+  padding-right: 450px;
+  padding-top: 30px
+
 }
 
 .article1 h1 {
   text-align: center;
-  padding: 31px
+  padding: 30px
 }
 
 .article1 h2 {
@@ -641,10 +645,49 @@ section .title::after {
 }
 
 .article1 p {
+  text-align: left;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.article1 a{
+  color: black;
+  text-decoration: underline;
+}
+
+/* styling for the artticle 2 that are embebbed on the website */
+
+.articles {
+  background: rgb(241, 239, 231);
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 450px;
+  padding-right: 450px;
+  padding-top: 30px
+
+}
+
+.articles h1 {
   text-align: center;
   padding: 30px
 }
 
+.articles h2 {
+  text-align: center;
+  padding: 30px
+}
+
+.articles p {
+  text-align: left;
+  padding: 30px;
+  font-size: 20px;
+  border
+
+}
+
+.articles a{
+  color: black;
+  text-decoration: underline;
+}
 
 /* contact section styling */
 .contact .contact-content .column {
