@@ -222,9 +222,9 @@ section .title::after {
 }
 
 .home .home-content .text-3 span {
-  color: black;
+  color: rgb(231, 238, 98);
   font-weight: 500;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .home .home-content a {
