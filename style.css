@@ -689,6 +689,13 @@ section .title::after {
   text-decoration: underline;
 }
 
+/* Styling for the PDF Artiles */
+
+.pdf {
+    height: auto;
+    width: auto;
+}
+
 /* contact section styling */
 .contact .contact-content .column {
   width: calc(50% - 30px);
