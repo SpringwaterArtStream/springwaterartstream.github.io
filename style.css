@@ -615,6 +615,8 @@ section .title::after {
 
 .photopage {
   background: black;
+  width: 100%;
+  height: auto;
 }
 
 .center {
